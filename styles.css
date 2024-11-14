@@ -1,1 +1,15 @@
 /* your code */
+table,th,td{
+    width: 600px;
+    border: 1px,solid whitesmoke;
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: center;
+}
+th{
+    background-color: #215A8E;
+}
+.even{
+    background-color: #ddd;
+}
+
